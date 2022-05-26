@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/happybirthday/static/css/main.a4605c28.css",
+    "main.js": "/happybirthday/static/js/main.8185db93.js",
+    "static/js/787.00c8c088.chunk.js": "/happybirthday/static/js/787.00c8c088.chunk.js",
+    "static/media/pngegg.png": "/happybirthday/static/media/pngegg.de2687612f688661c77e.png",
+    "index.html": "/happybirthday/index.html",
+    "main.a4605c28.css.map": "/happybirthday/static/css/main.a4605c28.css.map",
+    "main.8185db93.js.map": "/happybirthday/static/js/main.8185db93.js.map",
+    "787.00c8c088.chunk.js.map": "/happybirthday/static/js/787.00c8c088.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4605c28.css",
+    "static/js/main.8185db93.js"
+  ]
+}
